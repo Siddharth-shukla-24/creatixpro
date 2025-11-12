@@ -328,41 +328,47 @@ section{
 }
 }
 
-@media(max-width:768px){
-    #menu-bars{
-        display: initial;
+@media (max-width: 768px) {
+    #menu-bars {
+        display: block !important; /* Always show hamburger icon */
+        z-index: 10001;            /* Keep icon above navbar */
     }
-
-    .header .navbar{
+    .header {
+        padding: 1.5rem 2rem;
+        width: 100%;
+    }
+    .header .navbar {
         position: absolute;
         top: 100%;
         left: 0;
         right: 0;
+        width: 100%;
         border-top: .1rem solid #222;
         background: #333;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+        transition: clip-path 0.4s ease;
+        z-index: 10000;
+        flex-direction: column; /* Stack nav items vertically */
+        align-items: flex-start;
     }
-
-    .header .navbar.active{
+    .header .navbar.active {
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
-
-    .fa-times{
+    .fa-times {
         transform: rotate(180deg);
     }
-
-    .header .navbar a{
-        display: flex;
+    .header .navbar a {
+        display: block;               /* Change from flex to block for nav items */
         background: #222;
         border-radius: .5rem;
         padding: 1.3rem;
         margin: 1.3rem;
         font-size: 2rem;
-    }
-    .hone .content h3{
-        font-size: 4rem;
+        margin-left: 0;
+        width: 95%;
     }
 }
+
 
 
 @media(max-width:450px){
