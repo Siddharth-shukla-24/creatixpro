@@ -1,0 +1,56 @@
+{
+  "wedding": [
+    { "src": "gallery/wedding photo/img13.jpg", "alt": "Wedding Shoot 1" },
+    { "src": "gallery/wedding photo/img19.jpg", "alt": "Wedding Shoot 2" },
+    { "src": "gallery/wedding photo/img22.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img42.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/event photos/img73.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img32.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img28.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img35.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img38.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img42.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img45.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img49.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img53.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img56.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img60.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img64.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img68.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img72.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img78.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img82.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img89.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img97.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img125.jpg", "alt": "Wedding Shoot 3" },
+    { "src": "gallery/wedding photo/img140.jpg", "alt": "Wedding Shoot 3" }
+  ],
+  "product": [
+    { "src": "", "alt": "Product Shoot 1" },
+    { "src": "", "alt": "Product Shoot 2" },
+    { "src": "", "alt": "Product Shoot 3" }
+    
+  ],
+  "event": [
+    { "src": "gallery/event photos/img67.jpg", "alt": "Event Shoot 1" },
+    { "src": "gallery/event photos/img113.jpg", "alt": "Event Shoot 2" },
+    { "src": "gallery/event photos/img71.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img153.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img75.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img77.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img79.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img81.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img83.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img85.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img87.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img89.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img91.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img93.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img95.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img97.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img99.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img101.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img103.jpg", "alt": "Event Shoot 3" },
+    { "src": "gallery/event photos/img111.jpg", "alt": "Event Shoot 3" }
+  ]
+}

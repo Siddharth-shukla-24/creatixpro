@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery | [Your Company Name]</title>
+  <link rel="stylesheet" href="gallery.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo"><span>Creatix</span>pro</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="gallery.html" class="active">Gallery</a></li>
+      <li><a href="index.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="gallery-section">
+    <h1>Our <span>Gallery</span></h1>
+
+    <div class="gallery-category" id="wedding-section">
+      <h2>Wedding Shoots</h2>
+      <div class="gallery-grid" id="wedding-gallery"></div>
+    </div>
+
+    <div class="gallery-category" id="product-section">
+      <h2>Product Shoots</h2>
+      <div class="gallery-grid" id="product-gallery"></div>
+    </div>
+
+    <div class="gallery-category" id="event-section">
+      <h2>Event Shoots</h2>
+      <div class="gallery-grid" id="event-gallery"></div>
+    </div>
+  </section>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox">
+    <span class="close">&times;</span>
+    <img class="lightbox-content" id="lightbox-img">
+  </div>
+
+  <script src="gallery.js"></script>
+</body>
+</html>
